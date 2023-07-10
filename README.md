@@ -1,2 +1,2 @@
 # git-primer
-practice
+this is my first repo practice
